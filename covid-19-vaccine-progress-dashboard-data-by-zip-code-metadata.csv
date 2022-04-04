@@ -1,0 +1,40 @@
+Field,Value
+Title,COVID-19 Vaccine Progress Dashboard Data by ZIP Code
+URL,covid-19-vaccine-progress-dashboard-data-by-zip-code
+Description,"__Note__:  Starting June 30, 2021, the dataset has been reconfigured so that all updates are appended to one dataset to make it easier for API and other interfaces. In addition, historical data has been extended back to January 5, 2021.
+
+__Note__: Starting on November 10, 2021, the denominator for calculating vaccine coverage has been changed from age 12+ to age 5+ to reflect new vaccine eligibility criteria. The previous dataset based on age 12+ denominators has been uploaded as an archived table. Previously on May 18, 2021, the denominator was changed from age 16+ to age 12+ to reflect a previous change in vaccine eligibility criteria.
+
+This dataset shows full, partial, and at least 1 dose coverage rates by zip code tabulation area (ZCTA) for the state of California. Data sources include the California Immunization Registry and the American Community Survey’s 2015-2019 5-Year data.
+
+This is the data table for the [LHJ Vaccine Equity Performance dashboard](https://public.tableau.com/profile/ca.open.data#!/vizhome/LHJVaccineEquityPerformance/MapView?publish=yes). However, this data table also includes ZTCAs that do not have a VEM score.
+
+This dataset also includes Vaccine Equity Metric score quartiles (when applicable), which combine the Public Health Alliance of Southern California’s Healthy Places Index (HPI) measure with CDPH-derived scores to estimate factors that impact health, like income, education, and access to health care. ZTCAs range from less healthy community conditions in Quartile 1 to more healthy community conditions in Quartile 4.
+
+The Vaccine Equity Metric is for weekly vaccination allocation and reporting purposes only. CDPH-derived quartiles should not be considered as indicative of the HPI score for these zip codes. CDPH-derived quartiles were assigned to zip codes excluded from the HPI score produced by the Public Health Alliance of Southern California due to concerns with statistical reliability and validity in populations smaller than 1,500 or where more than 50% of the population resides in a group setting.
+
+These data do not include doses administered by the following federal agencies who received vaccine allocated directly from CDC: Indian Health Service, Veterans Health Administration, Department of Defense, and the Federal Bureau of Prisons.
+
+For some ZTCAs, vaccination coverage may exceed 100%. This may be a result of many people from outside the county coming to that ZTCA to get their vaccine and providers reporting the county of administration as the county of residence, and/or the DOF estimates of the population in that ZTCA are too low. Please note that population numbers provided by DOF are projections and so may not be accurate, especially given unprecedented shifts in population as a result of the pandemic."
+Tags,"california department of public health,covid,covid-19,covid19,vaccines,zip code"
+License,
+Topic,
+Organization,California Department of Public Health
+Public Access Level,Public
+Rights,No restrictions on public use
+Program Contact Name,California COVID-19 Vaccination Program
+Program Contact Email,opendata@cdph.ca.gov
+Author,
+Homepage URL,
+Frequency,Weekly
+Temporal Coverage,December 2020-present
+Granularity,
+Geographic Coverage Location,
+Spatial,
+Data Standard,
+Language,
+Source Link,https://covid19.ca.gov/vaccines/
+Additional Information,
+Related Resources,
+Secondary Sources,
+Citation,
